@@ -1,2 +1,2 @@
 # Neumorphism-Calculator
-I developer Html, CSS, JavaScript...
+I developer Html, CSS, JavaScript.
